@@ -19,7 +19,10 @@ The message includes the user's name.
 
 Usage:
 Run the script in a Python environment.
+
 Enter your name when prompted.
+
 If you fail to enter a name or provide an empty input, the script will prompt you to enter your name again until a valid name is provided.
+
 Once a valid name is provided, the script will greet you with a welcome message.
 
